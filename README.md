@@ -14,9 +14,9 @@ I'm an Information Technology undergraduate at Universiti Teknologi MARA (UiTM) 
 
 ### 📌 Featured Projects
 
-**SmartDrive** — A Generative AI-powered vehicle management application developed as my Final Year Project.
+**SmartDrive** : A Generative AI-powered vehicle management application developed as my Final Year Project.
 
-**Other Projects** — Explore my repositories to see more of my academic and personal projects.
+**Other Projects** : Explore my repositories to see more of my academic and personal projects.
 
 ### 🎓 Education
 
