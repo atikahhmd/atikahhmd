@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Atikah 👋
 
-<!--
-**atikahhmd/atikahhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology undergraduate at Universiti Teknologi MARA (UiTM) with an interest in **software development, mobile applications, UI/UX design, and emerging technologies**.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Programming:** Dart, Java, PHP, JavaScript
+* **Mobile Development:** Flutter, Android
+* **Web Development:** HTML, CSS, PHP
+* **Database:** Firebase, MySQL
+* **AI & APIs:** Google Gemini API, Google ML Kit
+* **Tools:** Android Studio, Git, GitHub, Postman
+* **Design:** Figma
+
+### 📌 Featured Projects
+
+**SmartDrive** — A Generative AI-powered vehicle management application developed as my Final Year Project.
+
+**Other Projects** — Explore my repositories to see more of my academic and personal projects.
+
+### 🎓 Education
+
+**Bachelor of Information Technology (Hons.)**
+Universiti Teknologi MARA (UiTM)
+
+### 🌱 Currently Learning
+
+Continuously improving my skills in software development, application development, UI/UX, and AI integration.
+
+### 📫 Connect With Me
+
+Feel free to explore my repositories and connect with me on LinkedIn.
